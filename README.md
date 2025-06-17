@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **React project**
 
-- 🌱 I’m currently learning **React.js , Node.js , Express.js , Java Spring Boot**
+- 🌱 I’m currently learning **React.js , Node.js , Express.js , C# , ASP.Net**
 
-- 👯 I’m looking to collaborate on **React, Java projects**
+- 👯 I’m looking to collaborate on **React, ASP.Net projects**
 
-- 💬 Ask me about **react, Java**
+- 💬 Ask me about **React, Node, MongoDB, C#**
 
 - 📫 How to reach me **kalharasahan78@gmail.com**
 
